@@ -5,6 +5,8 @@ def app():
     st.write("# The Task")
 
     st.write('''
+    In order to best gauge which city suits an individual we have created an interactive web application involving data/ML techniques to optimize which cities are most desirable from individual tastes.
+    
     **Data Use: Effectively used data, acquired additional data**
 
     When we first looked at this problem we wanted to gauge what metrics might impact a city’s desirability. In doing so we took from the given fields (movehub_rating, purchase_power, health_care, quality_of_life, pollution, crime_rating) and crawled the internet for more information. By using web-scrawling frameworks in conjunction with data from the World Population Center, we were able to retrieve the following metrics for each of our 214 cities: population, ‘happiness’ rank, weather quality, democratic governance, and apartment price per square foot. We also used web scrapers to retrieve supplemental material for our output on our web app, such as images of every city. By merging and joining different datasets together, we were able to piece together a final dataset that we then used in our visualization. To make this process more efficient, we stored each of our CSVs in a public-access **S3** bucket hosted by **AWS**. In doing so, we were able to work around the constraint that **GitHub** had regarding the file size of raw data. 
