@@ -5,7 +5,7 @@ def app():
     st.write("# The Task")
 
     st.write('''
-    In order to best gauge which city suits an individual we have created an interactive web application involving data/ML techniques to optimize which cities are most desirable from individual tastes.
+    In order to best gauge which city suits an individual, we have created an interactive web application involving data/ML techniques to optimize which cities are most desirable from individual tastes.
     
     **Data Use**
 
