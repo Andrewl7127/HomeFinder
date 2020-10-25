@@ -3,6 +3,9 @@ import app2
 import app3
 import app4
 import streamlit as st
+import streamlit_theme as stt
+
+stt.set_theme({'primary': '#000000'})
 
 PAGES = {
     "Explore the World": app1,
