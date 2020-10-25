@@ -1,5 +1,0 @@
-numpy==1.18.1
-streamlit==0.69.2
-plotly==4.11.0
-pandas==1.0.1
-scikit_learn==0.23.2
