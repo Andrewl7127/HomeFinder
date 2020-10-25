@@ -18,4 +18,4 @@ One of our key goals was to display our data and in turn our visualization in su
 
 In this day and age, remote work is slowly becoming the norm. As a result, our lives are largely dictated in our places of residence and much of our time is spent in our respective communities and cities. Where we decide to do our everyday mundane tasks slowly changes our mindset, outlook and our bank accounts. By taking the time to deduce which city is the best for our future selves we are positioning ourselves up for success. Our City Searching Tool takes from a variety of metrics to create a comprehensive solution using Machine Learning. By maximizing the likelihood that you can call a new city your home we help set users up for success.
 
-Try it out: https://homefinderapp.herokuapp.com
+**Try it out:** https://homefinderapp.herokuapp.com
