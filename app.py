@@ -5,7 +5,7 @@ import app4
 import streamlit as st
 import streamlit_theme as stt
 
-stt.set_theme({'primary': '#000000'})
+stt.set_theme({'primary': '#FF1493'})
 
 PAGES = {
     "Explore the World": app1,
