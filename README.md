@@ -1,4 +1,4 @@
-# HomeFinder
+# Home Finder
 
 In order to best gauge which city suits an individual, we have created an interactive web application involving data/ML techniques to optimize which cities are most desirable from individual tastes.
 
